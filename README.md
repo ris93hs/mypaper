@@ -7,6 +7,6 @@ First paper example for swc
 This is me cause I am bitching
 
 
-## abstract 
+## Abstract 
 
 add abastract on what is the idea of the project
