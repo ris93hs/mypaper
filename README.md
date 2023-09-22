@@ -1,6 +1,6 @@
 # mypaper
 
-Title of the paper
+Title of the paper new
 
 ### Author list
 
