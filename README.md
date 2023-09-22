@@ -1,6 +1,6 @@
 # mypaper
 
-First paper example for swc
+Title of the paper
 
 ### Author list
 
